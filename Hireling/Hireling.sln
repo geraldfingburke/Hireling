@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hireling.CSharp", "Hireling.CSharp.csproj", "{A56FEC9E-09C3-0161-5BD9-33B41117A588}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A56FEC9E-09C3-0161-5BD9-33B41117A588}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56FEC9E-09C3-0161-5BD9-33B41117A588}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56FEC9E-09C3-0161-5BD9-33B41117A588}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56FEC9E-09C3-0161-5BD9-33B41117A588}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
